@@ -6,3 +6,4 @@ like 0 = '0'
 
 triple equal (===) it will compare not only value but also type
 so there 0 and false will not be equal cause type doesn't match
+
