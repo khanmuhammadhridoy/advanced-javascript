@@ -1,7 +1,7 @@
 
 /*
 double equal (==) just compare value
-where 0=false, eventhough 0 is Number, false is Boolean
+where 0=false, even though 0 is Number, false is Boolean
 same in 1 = true
 also number and number in string are same
 like 0 = '0'
